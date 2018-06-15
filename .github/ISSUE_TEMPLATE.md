@@ -5,7 +5,7 @@
 
   If you don't follow the template, your issue may end up being closed without anyone looking at it carefully, because it is not actionable for us without the information in this template.
 
-  If you're filing a feature request, you do not need to follow the outline below, but please include "feature idea" in the title and include a specific example in which that feature would be useful.
+  If you're filing a feature request, you do not need to follow the template, but please mark the feature box at the bottom and include a specific example in which that feature would be useful.
 -->
 
 **Intended outcome:**
@@ -25,5 +25,22 @@ If possible, please create a reproduction using https://github.com/apollographql
 Instructions for how the issue can be reproduced by a maintainer or contributor. Be as specific as possible, and only mention what is necessary to reproduce the bug. If possible, try to isolate the exact circumstances in which the bug occurs and avoid speculation over what the cause might be.
 -->
 
-**Version**
-- apollo-client@<version number>
+**Versions**
+<!--
+Run the following command in your project directory, and paste its (automatically copied to clipboard) results here:
+
+`npx envinfo@latest --preset apollo --clipboard`
+-->
+
+<!--**Issue Labels**
+
+While not necessary, you can help organize our issues by labeling this issue when you open it.  To add a label automatically, simply [x] mark the appropriate box below:
+
+- [ ] has-reproduction
+- [ ] feature
+- [ ] docs
+- [ ] blocking
+- [ ] good first issue
+
+To add a label not listed above, simply place `/label another-label-name` on a line by itself.
+-->
